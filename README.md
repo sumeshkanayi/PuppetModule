@@ -1,0 +1,2 @@
+# PuppetModule
+Puppet Module
